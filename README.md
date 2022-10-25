@@ -1,6 +1,6 @@
 # > "Aumento do desmatamento da Amazônia Legal"
 
-- Aluno: Maria Alice Rodrigues Delgado
+- Aluna: Maria Alice Rodrigues Delgado
 
 - RA: 2111118
 
@@ -22,11 +22,12 @@ Link para o [miro](https://miro.com/welcomeonboard/eE1LMEo1SW92bU9xUWxZYTJFUlJ1W
 
 ## > Business Model Canvas.
 
+![The Business Model Canvas](https://user-images.githubusercontent.com/116606413/197894854-0a338d6c-999d-4b55-8ad9-172d04cce904.png)
 
-Link para o [miro](https://miro.com/welcomeonboard/eW81eU9tU3RMZkVmOXZFdm9xcnBFQjAyTGFFZVhnZ2hnZGhJZ2lSMDFXaXVycnladWJENWRNZTJlTE1wRWJKY3wzMDc0NDU3MzU1OTc1NTc4OTYzfDI=?share_link_id=499725029384)
+Link para o [miro](https://miro.com/welcomeonboard/eW81eU9tU3RMZkVmOXZFdm9xcnBFQjAyTGFFZVhnZ2hnZGhJZ2lSMDFXaXVycnladWJENWRNZTJlTE1wRWJKY3wzMDc0NDU3MzU1OTc1NTc4OTYzfDI=?share_link_id=478449391344)
 
 ## > Video clipe.
-- https://youtu.be/AAGcwnu98Mw
+- 
 
 ## > Fontes de dados.
 - https://www12.senado.leg.br/noticias/infomaterias/2022/10/retorno-do-brasil-ao-mapa-da-fome-da-onu-preocupa-senadores-e-estudiosos
@@ -36,4 +37,4 @@ Link para o [miro](https://miro.com/welcomeonboard/eW81eU9tU3RMZkVmOXZFdm9xcnBFQ
 ## > Minhas contribuições.
 - [Rodrigo Silva](https://github.com/Rodrigosilva028/Trab_dados/blob/main/README.md)
 - [Bernardo Dias](https://github.com/bernardodso/TrabDadosDesmatamento/blob/main/README.md)
-- 
+- [Gabriel Rocha](https://github.com/GabrielRocha22?tab=repositories)
