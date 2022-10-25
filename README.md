@@ -1,8 +1,8 @@
 # > "Aumento do desmatamento da Amazônia Legal"
 
-- Aluno: Bernardo Dias
+- Aluno: Maria Alice Rodrigues Delgado
 
-- RA: 2111090
+- RA: 2111118
 
 ## > Introdução.
 
@@ -10,30 +10,30 @@
 - 4° Semestre de Economia e Administação.
 - Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa" (IDP)
 - Essa é a primeira parte, de 1/2, do trabalho final da diciplina.
-- Este trabalho visa analisar o aumento do desmatamento da Amazônia Legal ao longo dos anos, para o estudo utilizaremos como base os dados do INPE que realiza monitoramento por satélite a partir do PRODES. Agradeço a atenção!
+- Este trabalho tem como objetivo analisar e expor dados referentes ao problema da fome no Brasil. Agradeço a atenção!
 
 ## > Cama de Gato do Futuro.
 
-![image](https://user-images.githubusercontent.com/116168402/197538608-7479f4ba-0ecc-4288-87e7-fc07d3110fd9.png)
+![Cama de Gato do Futuro](https://user-images.githubusercontent.com/116606413/197791539-5eb728e1-37ae-4671-bc27-f26aef562e02.jpg)
 
-Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=238010818841)
+
+Link para o [miro](https://miro.com/welcomeonboard/eE1LMEo1SW92bU9xUWxZYTJFUlJ1WjRKaEJTT1dFOG03UWtsREdzZmViWXQ5VzhjTVlVMEhlTUJndW5LMU5QZnwzMDc0NDU3MzU1OTc1NTc4OTYzfDI=?share_link_id=552053073556)
 
 
 ## > Business Model Canvas.
 
-![image](https://user-images.githubusercontent.com/116168402/197620473-7b973008-621b-4a0a-ac45-601eb51d6cec.png)
 
-Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126882017)
+Link para o [miro](https://miro.com/welcomeonboard/eW81eU9tU3RMZkVmOXZFdm9xcnBFQjAyTGFFZVhnZ2hnZGhJZ2lSMDFXaXVycnladWJENWRNZTJlTE1wRWJKY3wzMDc0NDU3MzU1OTc1NTc4OTYzfDI=?share_link_id=499725029384)
 
 ## > Video clipe.
 - https://youtu.be/AAGcwnu98Mw
 
 ## > Fontes de dados.
-- Upload excel acima (ProdBasAbateDesmatamento.xlsx)
-- https://www.correiobraziliense.com.br/brasil/2022/09/5037497-desmatamento-na-amazonia-em-2022-e-o-maior-em-15-anos.html
-- https://ipam.org.br/wp-content/uploads/2007/11/três_estrategias.pdf
+- https://www12.senado.leg.br/noticias/infomaterias/2022/10/retorno-do-brasil-ao-mapa-da-fome-da-onu-preocupa-senadores-e-estudiosos
+- https://brasilescola.uol.com.br/brasil/fome-no-brasil.htm
+- https://noticias.uol.com.br/colunas/carlos-madeiro/2022/06/08/fome-atinge-33-milhoes-de-pessoas-e-pais-retrocede-a-anos-90-diz-pesquisa.htm
 
 ## > Minhas contribuições.
 - [Rodrigo Silva](https://github.com/Rodrigosilva028/Trab_dados/blob/main/README.md)
-- [Willian Pinheiro](https://github.com/WillPin/TrabFinalDados)
-- [Gabriel Rocha](https://github.com/GabrielRocha22?tab=repositories)
+- [Bernardo Dias](https://github.com/bernardodso/TrabDadosDesmatamento/blob/main/README.md)
+- 
